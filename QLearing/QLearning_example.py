@@ -90,3 +90,4 @@ if __name__ == "__main__":
     q_table = rl()
     print('\r\nQ-table:\n')
     print(q_table)
+    #update at 2020/5/23
